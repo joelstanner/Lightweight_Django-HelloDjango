@@ -1,0 +1,4 @@
+env
+HelloDjango/__pycache__
+HelloDjango/functional_tests/__pycache__
+HelloDjango/functional_tests/screendumps
